@@ -24,7 +24,7 @@ const Login = () => {
         <input type='password' placeholder='password'/>
         </div>
       </div>
-      <div className='forget-password'>lost password?<sprn>click hear?</sprn></div>
+      <div className='forget-password'>lost password?<span>click hear?</span></div>
       <div className='submit-container'>
         <div className='submit'>sign up</div>
         <div className='submit'>login</div>
