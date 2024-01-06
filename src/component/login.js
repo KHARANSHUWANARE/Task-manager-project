@@ -13,15 +13,15 @@ const Login = () => {
       <div className='inputs'>
         <div className='input'>
         <img src={user} alt=''/>
-        <input type='text'/>
+        <input type='text' placeholder='name'/>
         </div>
         <div className='input'>
         <img src={email} alt=''/>
-        <input type='email'/>
+        <input type='email' placeholder='emailid'/>
         </div>
         <div className='input'>
         <img src={password} alt=''/>
-        <input type='password'/>
+        <input type='password' placeholder='password'/>
         </div>
       </div>
       <div className='forget-password'>lost password?<sprn>click hear?</sprn></div>
