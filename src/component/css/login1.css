@@ -44,5 +44,11 @@ padding-bottom: 30px;
 }
 
 .input{
-
+display: flex;
+align-items: center;
+margin: auto;
+width: 480px;
+height: 80px;
+background: white;
+border-radius: 6px;
 }
